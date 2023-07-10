@@ -22,4 +22,4 @@ $ git pull
 
 $ ls
 
-$ python 'sc v1.py
+$ python 'sc v1.py'
