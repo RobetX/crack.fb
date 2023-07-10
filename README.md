@@ -20,4 +20,6 @@ $ ls
 
 $ git pull
 
+$ ls
+
 $ python 'sc v1.py
