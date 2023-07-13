@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=HELLO+WORLD+I'M+ROBET XD+HERE+😊;SELAMAT+DATANG+💁;WAHAY+PARA+MALING+FACEBOOK+🙏;ROBET +XD+TUKANG+REKODE+🙊;SUPPER+SPEED+V2.0.1+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=HELLO+WORLD+I'M+ROBET +XD+😊;SELAMAT+DATANG+💁;WAHAY+PARA+MALING+FACEBOOK+🙏;ROBET +XD+TUKANG+REKODE+🙊;SUPPER+SPEED+V2.0.1+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)](https://git.io/typing-svg)
 
  
 
