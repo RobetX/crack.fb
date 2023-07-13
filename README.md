@@ -11,7 +11,7 @@
 
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;SELAMAT+DATANG DI+GIT+HUB+ROBET+XD+🙂)](https://git.io/typing-svg)
+
 
  
 
